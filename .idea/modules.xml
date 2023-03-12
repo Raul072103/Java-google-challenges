@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design Paterns Challenge 1/Design Paterns Challenge 1.iml" filepath="$PROJECT_DIR$/Design Paterns Challenge 1/Design Paterns Challenge 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-google-challenges.iml" filepath="$PROJECT_DIR$/.idea/Java-google-challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challenge 1/OOP Challenge 1.iml" filepath="$PROJECT_DIR$/OOP Challenge 1/OOP Challenge 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challenge 2/OOP Challenge 2.iml" filepath="$PROJECT_DIR$/OOP Challenge 2/OOP Challenge 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challenge 3/OOP Challenge 3.iml" filepath="$PROJECT_DIR$/OOP Challenge 3/OOP Challenge 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge 1/challenge 1.iml" filepath="$PROJECT_DIR$/challenge 1/challenge 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge 2/challenge 2.iml" filepath="$PROJECT_DIR$/challenge 2/challenge 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge 3/challenge 3.iml" filepath="$PROJECT_DIR$/challenge 3/challenge 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge 4/challenge 4.iml" filepath="$PROJECT_DIR$/challenge 4/challenge 4.iml" />
+    </modules>
+  </component>
+</project>
